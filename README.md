@@ -54,28 +54,6 @@ Focus : **qualité du code**, **collaboration**, **impact**.
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=222)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A3A3A3?logo=githubactions&logoColor=white)
 
-## 📊 Statistiques & Activité
-
-## 📊 Statistiques & Activité
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GTW503&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTW503&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GTW503&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🧩 Réalisations GitHub
 - Contributions continues : commits fréquents, **pull requests** et **merges**  
 - Dépôts variés : APIs, front‑end modernes, intégrations, automations  
