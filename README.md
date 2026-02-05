@@ -1,8 +1,3 @@
-<!--
-README de profil – MEBA ESSODOM KÉVIN (GTW503)
-Design + Recruteurs + Statistiques automatiques
--->
-
 <h1 align="center">👋 Salut, je suis <strong>MEBA ESSODOM KÉVIN</strong> — Développeur Full Stack</h1>
 
 <p align="center">
@@ -61,18 +56,21 @@ Focus : **qualité du code**, **collaboration**, **impact**.
 
 ## 📊 Statistiques & Activité
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GTW503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats globales" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTW503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
+## 📊 Statistiques & Activité
 
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=GTW503&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+### 🔥 Stats globales
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GTW503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+### 📘 Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTW503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+### 🔥 Streak (chaîne de contributions)
+![GitHub Streak](https://streak-stats.demolab.com?user=GTW503&theme=tokyonight&hide_border=true)
+
+### 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6)
+
+> 💡 Ces widgets affichent automatiquement commits, PRs, merges, issues, étoiles, contributions privées (si activées), langues les plus utilisées, etc.
 
 ---
 
