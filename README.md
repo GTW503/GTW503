@@ -58,17 +58,21 @@ Focus : **qualité du code**, **collaboration**, **impact**.
 
 ## 📊 Statistiques & Activité
 
-### 🔥 Stats globales
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GTW503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GTW503&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-### 📘 Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTW503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTW503&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🔥 Streak (chaîne de contributions)
-![GitHub Streak](https://streak-stats.demolab.com?user=GTW503&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GTW503&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
