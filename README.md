@@ -74,8 +74,6 @@ Focus : **qualité du code**, **collaboration**, **impact**.
   <img src="https://github-profile-trophy.vercel.app/?username=GTW503&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
-> 💡 Ces widgets affichent automatiquement commits, PRs, issues, étoiles, langues les plus utilisées, etc.
-
 ---
 
 ## 🧩 Réalisations GitHub
