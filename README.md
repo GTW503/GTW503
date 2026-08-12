@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis <strong>MEBA ESSODOM KÉVIN</strong> — Développeur Full Stack</h1>
+<h1 align="center">Salut, je suis <strong>MEBA ESSODOM KÉVIN</strong> Développeur Full Stack</h1>
 
 <p align="center">
   <a href="mailto:mebaessodomkevin@gmail.com">
@@ -12,14 +12,14 @@
 
 ---
 
-### 🚀 À propos
+### À propos
 Développeur **Full Stack** orienté produit, j’aime transformer des idées en solutions **fiables, performantes et maintenables**.  
 Je conçois des **APIs solides**, des **interfaces modernes** et j’automatise les **workflows CI/CD** pour livrer vite et bien.  
 Focus : **qualité du code**, **collaboration**, **impact**.
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 **Langages :**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -55,16 +55,16 @@ Focus : **qualité du code**, **collaboration**, **impact**.
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=222)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A3A3A3?logo=githubactions&logoColor=white)
 
-## 🧩 Réalisations GitHub
+## Réalisations GitHub
 - Contributions continues : commits fréquents, **pull requests** et **merges**  
 - Dépôts variés : APIs, front‑end modernes, intégrations, automations  
 - Orientation qualité : revues de code, documentation, tests, CI/CD
 
 ---
 
-## 🤝 Contact
-- 📧 **Email :** mebaessodomkevin@gmail.com  
-- 💻 **GitHub :** https://github.com/GTW503
+## Contact
+- **Email :** mebaessodomkevin@gmail.com  
+- **GitHub :** https://github.com/GTW503
 
 ---
 
