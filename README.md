@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis <strong>MEBA ESSODOM KÉVIN</strong> Développeur Full Stack</h1>
+<h1 align="center">Salut, je suis <strong>MEBA Essodom Kévin</strong> Développeur Full Stack</h1>
 
 <p align="center">
   <a href="mailto:mebaessodomkevin@gmail.com">
